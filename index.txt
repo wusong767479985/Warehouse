@@ -1,5 +1,5 @@
-G
-GTI
+
+echo '解决冲突222';
 kkk::
 :it is aversion control system.
 Git is free software.
