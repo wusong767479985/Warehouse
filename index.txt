@@ -1,4 +1,5 @@
-Git is aversion control system.
+G   kkk::
+:it is aversion control system.
 Git is free software.
 dedede
 dede
