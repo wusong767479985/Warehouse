@@ -1,4 +1,6 @@
-G   kkk::
+G
+GTI
+kkk::
 :it is aversion control system.
 Git is free software.
 dedede
@@ -8,3 +10,7 @@ vvvvvvvvvvvvvvvvvv
 vvvv
 vv
 这样真的号码？？？
+
+
+
+echo '我修改过了';
