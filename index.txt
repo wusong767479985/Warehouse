@@ -14,7 +14,12 @@ vv
 echo '我要提交了';
 
 echo '我修改过了';
+echo '芳芳'；
 
 echo '222222222222';
+<<<<<<< HEAD
 echo '解决冲突';
 echo 'LLLLLLLLLLLLLLLLLLLLLLLLL';
+=======
+
+>>>>>>> hello
