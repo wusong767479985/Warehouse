@@ -19,7 +19,5 @@ echo '芳芳'；
 echo '222222222222';
 <<<<<<< HEAD
 echo '解决冲突';
-echo 'LLLLLLLLLLLLLLLLLLLLLLLLL';
-=======
-
->>>>>>> hello
+echo 'LLLLLLLLL
+echo '早上好';
